@@ -45,7 +45,8 @@ Information on remote participation will be included here.
 
 ## Location
 
-TBA
+The event will take place at [BioCity Turku](https://biocityturku.fi/),
+the same venue as EuroBioc2026. Room numbers TBA.
 
 ## Cloud compute resources
 
